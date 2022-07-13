@@ -1,4 +1,4 @@
-﻿Console.Write("Введите число: ");
+Console.Write("Введите число: ");
 int x = Convert.ToInt32(Console.ReadLine());
 x = Math.Abs(x);
 // Мой первый вариант был такой
